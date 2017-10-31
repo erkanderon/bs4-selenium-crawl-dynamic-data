@@ -1,0 +1,235 @@
+1509484524724	geckodriver	INFO	geckodriver 0.19.0
+1509484524747	geckodriver	INFO	Listening on 127.0.0.1:51252
+1509484526368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UAI9tmnnSol9"
+1509484532790	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509484536832	Marionette	INFO	Enabled via --marionette
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11200): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11200): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11200): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11200): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1509484549433	Marionette	INFO	Listening on port 42237
+1509484549561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509484549705	Marionette	DEBUG	Register listener.js for window 2147483649
+1509484549951	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509484559332	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509484559332	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.iddaa.com/futbol-programi/, line 686: ReferenceError: $ is not defined
+1509484569712	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.iddaa.com/futbol-programi/"
+1509484570914	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+JavaScript error: https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js, line 227: TypeError: json.Ad is undefined
+JavaScript error: https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js, line 227: TypeError: json.Ad is undefined
+1509484575657	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.iddaa.com/futbol-programi/"
+1509484620569	geckodriver	INFO	geckodriver 0.19.0
+1509484620591	geckodriver	INFO	Listening on 127.0.0.1:41314
+1509484622076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oXCriTDOuZxt"
+1509484624817	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509484626912	Marionette	INFO	Enabled via --marionette
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11335): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11335): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11335): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11335): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1509484636126	Marionette	INFO	Listening on port 34141
+1509484636353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509484636541	Marionette	DEBUG	Register listener.js for window 2147483649
+1509484636739	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509484646317	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509484646318	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.iddaa.com/futbol-programi/, line 686: ReferenceError: $ is not defined
+1509484656965	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.iddaa.com/futbol-programi/"
+1509484657963	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+JavaScript error: https://ad.reklamport.com/rpgetad.ashx?tt=t_iddaa2017_site_genel_1x1_tepe_banner&rnd=0.8408649068037612, line 8: ReferenceError: getVast is not defined
+JavaScript error: https://ad.reklamport.com/rpgetad.ashx?tt=t_iddaa2017_site_genel_1x1_tepe_banner&rnd=0.8408649068037612, line 10: ReferenceError: getVast is not defined
+1509484662806	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.iddaa.com/futbol-programi/"
+JavaScript error: https://www.iddaa.com/futbol-programi/, line 686: ReferenceError: $ is not defined
+JavaScript error: https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js, line 227: TypeError: json.Ad is undefined
+JavaScript error: https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js, line 227: TypeError: json.Ad is undefined
+1509484704322	geckodriver	INFO	geckodriver 0.19.0
+1509484704342	geckodriver	INFO	Listening on 127.0.0.1:34494
+1509484705906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xreRJ9WFWFh4"
+1509484707094	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509484709020	Marionette	INFO	Enabled via --marionette
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11523): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11523): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11523): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11523): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1509484719260	Marionette	INFO	Listening on port 33140
+1509484720091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509484720273	Marionette	DEBUG	Register listener.js for window 2147483649
+1509484720482	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509484731321	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509484731321	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.iddaa.com/futbol-programi/, line 686: ReferenceError: $ is not defined
+1509484741852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.iddaa.com/futbol-programi/"
+1509484742157	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+JavaScript error: https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js, line 227: TypeError: json.Ad is undefined
+JavaScript error: https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js, line 227: TypeError: json.Ad is undefined
+1509484747711	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.iddaa.com/futbol-programi/"
+JavaScript error: https://www.iddaa.com/futbol-programi/, line 686: ReferenceError: $ is not defined
+JavaScript error: https://ad.reklamport.com/rpgetad.ashx?tt=t_iddaa2017_site_genel_1x1_tepe_banner&rnd=0.29835813733371197, line 8: ReferenceError: getVast is not defined
+JavaScript error: https://ad.reklamport.com/rpgetad.ashx?tt=t_iddaa2017_site_genel_1x1_tepe_banner&rnd=0.29835813733371197, line 10: ReferenceError: getVast is not defined
+JavaScript error: https://www.iddaa.com/futbol-programi/, line 686: ReferenceError: $ is not defined
+JavaScript error: https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js, line 227: TypeError: json.Ad is undefined
+JavaScript error: https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js, line 227: TypeError: json.Ad is undefined
+JavaScript error: https://www.iddaa.com/futbol-programi/, line 686: ReferenceError: $ is not defined
+JavaScript error: https://ad.reklamport.com/rpgetad.ashx?tt=t_iddaa2017_site_genel_1x1_tepe_banner&rnd=0.22738086614880815, line 8: ReferenceError: getVast is not defined
+JavaScript error: https://ad.reklamport.com/rpgetad.ashx?tt=t_iddaa2017_site_genel_1x1_tepe_banner&rnd=0.22738086614880815, line 10: ReferenceError: getVast is not defined
+1509484895028	geckodriver	INFO	geckodriver 0.19.0
+1509484895093	geckodriver	INFO	Listening on 127.0.0.1:34527
+1509484896667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.q7QSiFxC8exM"
+1509484906151	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1509484910971	Marionette	INFO	Enabled via --marionette
+JavaScript error: https://www.iddaa.com/futbol-programi/, line 686: ReferenceError: $ is not defined
+
+(firefox:11703): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11703): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11703): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11703): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js, line 227: TypeError: json.Ad is undefined
+JavaScript error: https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js, line 227: TypeError: json.Ad is undefined
+
+(/usr/lib/firefox/firefox:11773): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11773): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11773): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:11773): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1509484934471	Marionette	INFO	Listening on port 42685
+1509484934558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509484934813	Marionette	DEBUG	Register listener.js for window 2147483649
+1509484935157	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509484946253	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509484946254	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://www.iddaa.com/futbol-programi/, line 686: ReferenceError: $ is not defined
+JavaScript error: https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js, line 227: TypeError: json.Ad is undefined
+JavaScript error: https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js, line 227: TypeError: json.Ad is undefined
+JavaScript error: https://www.iddaa.com/futbol-programi/, line 686: ReferenceError: $ is not defined
+1509484956965	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.iddaa.com/futbol-programi/"
+1509484959350	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+JavaScript error: https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js, line 227: TypeError: json.Ad is undefined
+JavaScript error: https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js, line 227: TypeError: json.Ad is undefined
+1509484962601	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.iddaa.com/futbol-programi/"
+JavaScript error: https://www.iddaa.com/futbol-programi/, line 686: ReferenceError: $ is not defined
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11469): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11279): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11142): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed

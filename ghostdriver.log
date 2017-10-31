@@ -1,0 +1,48 @@
+[INFO  - 2017-10-31T21:14:12.177Z] GhostDriver - Main - running on port 53280
+[INFO  - 2017-10-31T21:14:12.938Z] Session [719cc400-be80-11e7-ac12-83bd07494888] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-10-31T21:14:12.938Z] Session [719cc400-be80-11e7-ac12-83bd07494888] - page.customHeaders:  - {}
+[INFO  - 2017-10-31T21:14:12.938Z] Session [719cc400-be80-11e7-ac12-83bd07494888] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-10-31T21:14:12.938Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 719cc400-be80-11e7-ac12-83bd07494888
+[ERROR - 2017-10-31T21:14:27.620Z] Session [719cc400-be80-11e7-ac12-83bd07494888] - page.onError - msg: ReferenceError: Can't find variable: Promise
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-31T21:14:27.620Z] Session [719cc400-be80-11e7-ac12-83bd07494888] - page.onError - stack:
+  e (https://static.iddaa.com/assets/js/main.js?v=1508760945:1)
+  (anonymous function) (https://static.iddaa.com/assets/js/main.js?v=1508760945:1)
+  n (https://static.iddaa.com/assets/js/main.js?v=1508760945:1)
+  (anonymous function) (https://static.iddaa.com/assets/js/main.js?v=1508760945:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-31T21:14:32.285Z] Session [719cc400-be80-11e7-ac12-83bd07494888] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-31T21:14:32.285Z] Session [719cc400-be80-11e7-ac12-83bd07494888] - page.onError - stack:
+  (anonymous function) (https://www.iddaa.com/futbol-programi/:686)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-31T21:14:33.697Z] Session [719cc400-be80-11e7-ac12-83bd07494888] - page.onError - msg: TypeError: undefined is not an object (evaluating 'json.Ad.Wrapper')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-31T21:14:33.698Z] Session [719cc400-be80-11e7-ac12-83bd07494888] - page.onError - stack:
+  handleVast (https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js:227)
+  (anonymous function) (https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js:209)
+  success (https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js:35)
+  i (https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/jquery-3.1.1.min.js:2)
+  fireWith (https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/jquery-3.1.1.min.js:2)
+  A (https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/jquery-3.1.1.min.js:4)
+  (anonymous function) (https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/jquery-3.1.1.min.js:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-31T21:14:33.703Z] Session [719cc400-be80-11e7-ac12-83bd07494888] - page.onError - msg: TypeError: undefined is not an object (evaluating 'json.Ad.Wrapper')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-10-31T21:14:33.703Z] Session [719cc400-be80-11e7-ac12-83bd07494888] - page.onError - stack:
+  handleVast (https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js:227)
+  (anonymous function) (https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js:209)
+  success (https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/vast-parser-V2.7.js:35)
+  i (https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/jquery-3.1.1.min.js:2)
+  fireWith (https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/jquery-3.1.1.min.js:2)
+  A (https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/jquery-3.1.1.min.js:4)
+  (anonymous function) (https://reklamportcdn.cdn1.sadececdn.com/rp-player/custom-js/jquery-3.1.1.min.js:4)
+
+  phantomjs://platform/console++.js:263 in error
